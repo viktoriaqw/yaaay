@@ -1,0 +1,2 @@
+if_name_=='_name_':
+    print('hello')
